@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MultiPlatformTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
